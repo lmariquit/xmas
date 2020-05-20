@@ -1,19 +1,9 @@
 {
-<<<<<<< HEAD
   "name": "xmas",
-=======
-  "name": "boilerplate_lm",
->>>>>>> e67cb12d48cf85ed90dfdd07e6e7c1927c30ae04
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
-=======
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server",
     "start-dev": "killall -9 node; NODE_ENV='development' webpack -w & npm run start-server",
@@ -50,5 +40,4 @@
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0"
   }
->>>>>>> e67cb12d48cf85ed90dfdd07e6e7c1927c30ae04
 }
