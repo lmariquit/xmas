@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div id="main">
       {/* PUT COMPONENTS HERE */}
-      LM Boilerplate
+      Happy XMAS
     </div>
   )
 }
